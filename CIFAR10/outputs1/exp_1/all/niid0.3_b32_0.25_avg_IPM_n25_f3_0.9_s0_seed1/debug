@@ -1,0 +1,725 @@
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker ByzantineWorker
+=> Add worker ByzantineWorker
+=> Add worker ByzantineWorker
+Train epoch 1
+[E 1B0  |    800/50000 (  2%) ] Loss: 2.4477 top1= 11.2500
+[E 1B10 |   8800/50000 ( 18%) ] Loss: 389.4901 top1= 10.6250
+[E 1B20 |  16800/50000 ( 34%) ] Loss: 31610.6105 top1= 11.0000
+
+=> Eval Loss=2670031.3590 top1=  9.9860
+
+Train epoch 2
+[E 2B0  |    800/50000 (  2%) ] Loss: 4101268.8600 top1= 10.7500
+[E 2B10 |   8800/50000 ( 18%) ] Loss: 576573125.1200 top1= 10.0000
+[E 2B20 |  16800/50000 ( 34%) ] Loss: 80093834936.3200 top1= 10.3750
+
+=> Eval Loss=14358168106535.3848 top1=  9.9860
+
+Train epoch 3
+[E 3B0  |    800/50000 (  2%) ] Loss: 11549263444049.9199 top1=  9.1250
+[E 3B10 |   8800/50000 ( 18%) ] Loss: 1619742773466890.2500 top1= 10.8750
+[E 3B20 |  16800/50000 ( 34%) ] Loss: 225405532435067712.0000 top1= 12.3750
+
+=> Eval Loss=4145006930444434800640.0000 top1=  9.9860
+
+Train epoch 4
+[E 4B0  |    800/50000 (  2%) ] Loss: 32115530814045941760.0000 top1= 11.3750
+[E 4B10 |   8800/50000 ( 18%) ] Loss: 4598659198879231639552.0000 top1=  9.7500
+[E 4B20 |  16800/50000 ( 34%) ] Loss: 634012704463281566253056.0000 top1= 11.2500
+
+=> Eval Loss=90774541761888241076666368.0000 top1=  9.9860
+
+Train epoch 5
+[E 5B0  |    800/50000 (  2%) ] Loss: 89185131937459567450914816.0000 top1= 11.8750
+[E 5B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.6250
+[E 5B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 6
+[E 6B0  |    800/50000 (  2%) ] Loss: nan top1= 10.1250
+[E 6B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.6250
+[E 6B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 7
+[E 7B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E 7B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E 7B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 8
+[E 8B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E 8B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.6250
+[E 8B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 9
+[E 9B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E 9B10 |   8800/50000 ( 18%) ] Loss: nan top1=  8.6250
+[E 9B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 10
+[E10B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E10B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.3750
+[E10B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 11
+[E11B0  |    800/50000 (  2%) ] Loss: nan top1=  9.6250
+[E11B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E11B20 |  16800/50000 ( 34%) ] Loss: nan top1= 12.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 12
+[E12B0  |    800/50000 (  2%) ] Loss: nan top1= 10.5000
+[E12B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.7500
+[E12B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 13
+[E13B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E13B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.6250
+[E13B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 14
+[E14B0  |    800/50000 (  2%) ] Loss: nan top1= 10.3750
+[E14B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.2500
+[E14B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 15
+[E15B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E15B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.8750
+[E15B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 16
+[E16B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E16B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.1250
+[E16B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 17
+[E17B0  |    800/50000 (  2%) ] Loss: nan top1=  9.0000
+[E17B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.5000
+[E17B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 18
+[E18B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E18B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.7500
+[E18B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 19
+[E19B0  |    800/50000 (  2%) ] Loss: nan top1= 11.1250
+[E19B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E19B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 20
+[E20B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E20B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E20B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 21
+[E21B0  |    800/50000 (  2%) ] Loss: nan top1=  8.1250
+[E21B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.1250
+[E21B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 22
+[E22B0  |    800/50000 (  2%) ] Loss: nan top1= 10.3750
+[E22B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.8750
+[E22B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 23
+[E23B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E23B10 |   8800/50000 ( 18%) ] Loss: nan top1=  8.8750
+[E23B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 24
+[E24B0  |    800/50000 (  2%) ] Loss: nan top1= 10.3750
+[E24B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E24B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 25
+[E25B0  |    800/50000 (  2%) ] Loss: nan top1=  9.3750
+[E25B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E25B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 26
+[E26B0  |    800/50000 (  2%) ] Loss: nan top1= 10.7500
+[E26B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E26B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 27
+[E27B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E27B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.0000
+[E27B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 28
+[E28B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E28B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.3750
+[E28B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 29
+[E29B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E29B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.7500
+[E29B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 30
+[E30B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E30B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.2500
+[E30B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 31
+[E31B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E31B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.7500
+[E31B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 32
+[E32B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E32B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.0000
+[E32B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 33
+[E33B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E33B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.7500
+[E33B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 34
+[E34B0  |    800/50000 (  2%) ] Loss: nan top1= 10.7500
+[E34B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.5000
+[E34B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 35
+[E35B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E35B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.2500
+[E35B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 36
+[E36B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E36B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.3750
+[E36B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 37
+[E37B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E37B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.0000
+[E37B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 38
+[E38B0  |    800/50000 (  2%) ] Loss: nan top1=  8.7500
+[E38B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.1250
+[E38B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 39
+[E39B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E39B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.5000
+[E39B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 40
+[E40B0  |    800/50000 (  2%) ] Loss: nan top1=  9.3750
+[E40B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E40B20 |  16800/50000 ( 34%) ] Loss: nan top1= 12.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 41
+[E41B0  |    800/50000 (  2%) ] Loss: nan top1= 10.1250
+[E41B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.3750
+[E41B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 42
+[E42B0  |    800/50000 (  2%) ] Loss: nan top1=  9.8750
+[E42B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E42B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 43
+[E43B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E43B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E43B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 44
+[E44B0  |    800/50000 (  2%) ] Loss: nan top1= 10.5000
+[E44B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.6250
+[E44B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 45
+[E45B0  |    800/50000 (  2%) ] Loss: nan top1=  8.5000
+[E45B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E45B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 46
+[E46B0  |    800/50000 (  2%) ] Loss: nan top1= 10.3750
+[E46B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E46B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 47
+[E47B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E47B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E47B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 48
+[E48B0  |    800/50000 (  2%) ] Loss: nan top1= 11.1250
+[E48B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.3750
+[E48B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 49
+[E49B0  |    800/50000 (  2%) ] Loss: nan top1= 11.0000
+[E49B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E49B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 50
+[E50B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E50B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.8750
+[E50B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 51
+[E51B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E51B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.3750
+[E51B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 52
+[E52B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E52B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E52B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 53
+[E53B0  |    800/50000 (  2%) ] Loss: nan top1=  9.6250
+[E53B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.0000
+[E53B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 54
+[E54B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E54B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E54B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 55
+[E55B0  |    800/50000 (  2%) ] Loss: nan top1=  9.8750
+[E55B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.8750
+[E55B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 56
+[E56B0  |    800/50000 (  2%) ] Loss: nan top1= 11.0000
+[E56B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.7500
+[E56B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 57
+[E57B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E57B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.1250
+[E57B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 58
+[E58B0  |    800/50000 (  2%) ] Loss: nan top1=  9.8750
+[E58B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E58B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 59
+[E59B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E59B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E59B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 60
+[E60B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E60B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.6250
+[E60B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 61
+[E61B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E61B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.2500
+[E61B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 62
+[E62B0  |    800/50000 (  2%) ] Loss: nan top1=  9.0000
+[E62B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.5000
+[E62B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 63
+[E63B0  |    800/50000 (  2%) ] Loss: nan top1= 10.8750
+[E63B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.0000
+[E63B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 64
+[E64B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E64B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E64B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 65
+[E65B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E65B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E65B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 66
+[E66B0  |    800/50000 (  2%) ] Loss: nan top1= 11.1250
+[E66B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.1250
+[E66B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 67
+[E67B0  |    800/50000 (  2%) ] Loss: nan top1= 10.1250
+[E67B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E67B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 68
+[E68B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E68B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.7500
+[E68B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 69
+[E69B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E69B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.2500
+[E69B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 70
+[E70B0  |    800/50000 (  2%) ] Loss: nan top1=  9.7500
+[E70B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.3750
+[E70B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 71
+[E71B0  |    800/50000 (  2%) ] Loss: nan top1=  9.8750
+[E71B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E71B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 72
+[E72B0  |    800/50000 (  2%) ] Loss: nan top1=  9.8750
+[E72B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E72B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 73
+[E73B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E73B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.2500
+[E73B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.0000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 74
+[E74B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E74B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.6250
+[E74B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 75
+[E75B0  |    800/50000 (  2%) ] Loss: nan top1=  8.1250
+[E75B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.5000
+[E75B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 76
+[E76B0  |    800/50000 (  2%) ] Loss: nan top1= 10.5000
+[E76B10 |   8800/50000 ( 18%) ] Loss: nan top1= 12.0000
+[E76B20 |  16800/50000 ( 34%) ] Loss: nan top1=  8.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 77
+[E77B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E77B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.3750
+[E77B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 78
+[E78B0  |    800/50000 (  2%) ] Loss: nan top1=  9.6250
+[E78B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.2500
+[E78B20 |  16800/50000 ( 34%) ] Loss: nan top1= 12.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 79
+[E79B0  |    800/50000 (  2%) ] Loss: nan top1= 11.0000
+[E79B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E79B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 80
+[E80B0  |    800/50000 (  2%) ] Loss: nan top1= 11.8750
+[E80B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.8750
+[E80B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.3750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 81
+[E81B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E81B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.8750
+[E81B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 82
+[E82B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E82B10 |   8800/50000 ( 18%) ] Loss: nan top1=  9.3750
+[E82B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 83
+[E83B0  |    800/50000 (  2%) ] Loss: nan top1= 10.2500
+[E83B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E83B20 |  16800/50000 ( 34%) ] Loss: nan top1=  8.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 84
+[E84B0  |    800/50000 (  2%) ] Loss: nan top1=  8.6250
+[E84B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.0000
+[E84B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 85
+[E85B0  |    800/50000 (  2%) ] Loss: nan top1=  9.5000
+[E85B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E85B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 86
+[E86B0  |    800/50000 (  2%) ] Loss: nan top1= 10.6250
+[E86B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E86B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.2500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 87
+[E87B0  |    800/50000 (  2%) ] Loss: nan top1=  8.5000
+[E87B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.3750
+[E87B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 88
+[E88B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E88B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E88B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 89
+[E89B0  |    800/50000 (  2%) ] Loss: nan top1=  9.2500
+[E89B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E89B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 90
+[E90B0  |    800/50000 (  2%) ] Loss: nan top1= 10.1250
+[E90B10 |   8800/50000 ( 18%) ] Loss: nan top1= 13.0000
+[E90B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.8750
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 91
+[E91B0  |    800/50000 (  2%) ] Loss: nan top1= 11.2500
+[E91B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.3750
+[E91B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 92
+[E92B0  |    800/50000 (  2%) ] Loss: nan top1=  8.8750
+[E92B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.6250
+[E92B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.7500
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 93
+[E93B0  |    800/50000 (  2%) ] Loss: nan top1= 11.0000
+[E93B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.1250
+[E93B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 94
+[E94B0  |    800/50000 (  2%) ] Loss: nan top1=  8.6250
+[E94B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.6250
+[E94B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.5000
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 95
+[E95B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E95B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.7500
+[E95B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 96
+[E96B0  |    800/50000 (  2%) ] Loss: nan top1=  9.3750
+[E96B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E96B20 |  16800/50000 ( 34%) ] Loss: nan top1=  9.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 97
+[E97B0  |    800/50000 (  2%) ] Loss: nan top1=  8.7500
+[E97B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E97B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.1250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 98
+[E98B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E98B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.8750
+[E98B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 99
+[E99B0  |    800/50000 (  2%) ] Loss: nan top1=  9.1250
+[E99B10 |   8800/50000 ( 18%) ] Loss: nan top1= 11.0000
+[E99B20 |  16800/50000 ( 34%) ] Loss: nan top1= 11.6250
+
+=> Eval Loss=nan top1=  9.9960
+
+Train epoch 100
+[E100B0  |    800/50000 (  2%) ] Loss: nan top1= 10.0000
+[E100B10 |   8800/50000 ( 18%) ] Loss: nan top1= 10.3750
+[E100B20 |  16800/50000 ( 34%) ] Loss: nan top1= 10.3750
+
+=> Eval Loss=nan top1=  9.9960
+

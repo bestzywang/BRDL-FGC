@@ -1,0 +1,25 @@
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker TorchWorker
+=> Add worker ByzantineWorker
+Train epoch 1
+[E 1B0  |    480/60000 (  1%) ] Loss: 2.3215 top1=  8.9583
+[E 1B10 |   5280/60000 (  9%) ] Loss: 2.1727 top1= 20.8333
+[E 1B20 |  10080/60000 ( 17%) ] Loss: 2.0383 top1= 28.1250
+
+=> Eval Loss=1.6341 top1= 68.7500
+
+Train epoch 2
+[E 2B0  |    480/60000 (  1%) ] Loss: 1.8276 top1= 36.8750
+[E 2B10 |   5280/60000 (  9%) ] Loss: 1.5952 top1= 47.2917
