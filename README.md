@@ -1,1 +1,6 @@
 # BRDL-FGC
+
+# Reproduction
+
+## MNIST 
+
