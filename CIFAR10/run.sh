@@ -30,7 +30,7 @@ function run_exp1 {
     done
 }
 
-# The following codes are used for Fig.5 (b)
+# The following codes are used for Fig.7 (b)
 function run_exp2 {
     COMMON_OPTIONS="--use-cuda --identifier all -n 25 -b 32  --lr 0.5 --bucketing 0 --noniid --clip-tau 0.215771"
     for seed in 1 2 3
