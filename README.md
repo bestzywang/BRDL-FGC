@@ -3,6 +3,7 @@
 ## MNIST 
 
 1. Run run.sh
+
 2. The codes called run_exp1 are used to run exp_1.py (Fig. 3) and exp_2.py (Fig. 4); Change niid and f to run them
 
 3. The codes called run_exp2 are used to run exp_3.py (Fig. 5) and exp_4.py (Fig. 6); Change n and f to run them
@@ -12,3 +13,11 @@
 5. The codes called run_exp4 are used to run exp_6.py (Fig. 8 (a)) and exp_7.py (Fig. 8 (b)); Change niid and f to run them
 
 6. The codes called run_exp5 are used for table.
+
+## CIFAR-10
+
+1. Run run.sh
+
+2. The codes called run_exp1 are used for table iv
+
+3. The codes called run_exp2 are used for Fig.7 (b)
