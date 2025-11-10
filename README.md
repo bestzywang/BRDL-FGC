@@ -2,7 +2,8 @@
 
 ## When you use our algorithm, please cite our paper:
 
-Order-Optimal Byzantine-Robust Learning Under Heterogeneity via Fair Gradient Clipping, Zhi-Yong Wang, Hao Nan Sheng, Qiushi Yang, Hing Cheung So, in IEEE Trans. Cybern. 2025 (DOI: 10.1109/TCYB.2025.3628486).
+Order-Optimal Byzantine-Robust Learning Under Heterogeneity via Fair Gradient Clipping, 
+Zhi-Yong Wang, Hao Nan Sheng, Qiushi Yang, Hing Cheung So, in IEEE Trans. Cybern. 2025 (DOI: 10.1109/TCYB.2025.3628486).
 
 ## MNIST 
 
